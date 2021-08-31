@@ -34,4 +34,4 @@ Each dataset configuration points to the training and development splits of one 
 
 ### Predictions
 
-We provide the instance-level predictions of each parser and each random initialization as CoNLL-U files in `predictions/` in order ensure that future work can evaluate the statistical significance of performance differences. 
+We provide the instance-level predictions of each parser and each random initialization as CoNLL-U files in [this archive](https://personads.me/x/emnlp-2021-data) in order ensure that future work can evaluate the statistical significance of performance differences. 
