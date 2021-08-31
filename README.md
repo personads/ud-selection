@@ -12,8 +12,6 @@ After installing the required packages in this directory, the experiments can be
 * `run-sentence-selection.sh`: run embedding-based sentence selection with the same proportions as in the main paper
 * `run-random-selection.sh`: run random sentence selection with the same proportions as in the main paper
 
-[TOC]
-
 ## Installation
 
 Python 3.6+ as well as prerequisite packages are quired to run and evaluate all models. Please install them using the provided requirements file (ideally in a virtual environment):
