@@ -1,6 +1,6 @@
 # Genre as Weak Supervision for Cross-lingual Dependency Parsing
 
-This repository contains implementations of the data selection methods from the EMNLP 2021 paper "Genre as Weak Supervision for Cross-lingual Dependency Parsing" (Müller-Eberstein et al., 2021).
+This repository contains implementations of the data selection methods from the EMNLP 2021 paper **"Genre as Weak Supervision for Cross-lingual Dependency Parsing"** ([Müller-Eberstein, van der Goot and Plank, 2021](https://arxiv.org/abs/2109.04733)).
 
 ![Genre selection models extract the most similar sentences from UD based on data-driven genre similarity in order to train cross-lingual, zero-shot parsers.](header.png)
 
